@@ -11,4 +11,3 @@ if (index < size) {
     (avg = sum / size)
 }
 print (avg) 
-
